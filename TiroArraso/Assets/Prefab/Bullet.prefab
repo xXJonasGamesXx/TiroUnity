@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 5543466211692276441}
   - component: {fileID: -3901212503318059329}
   m_Layer: 0
-  m_Name: Bala
+  m_Name: Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -174,6 +174,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 8523287922028395986}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3530687661c4b1141984256bd9962cce, type: 3}
+  m_Script: {fileID: 11500000, guid: ed7443c9396c307478725d3cbeb023ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bala
