@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Target
+  - Bala
   layers:
   - Default
   - TransparentFX

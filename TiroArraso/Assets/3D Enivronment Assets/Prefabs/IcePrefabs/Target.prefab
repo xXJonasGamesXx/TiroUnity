@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 2114353820026586541}
   - component: {fileID: 3481699815553871263}
   - component: {fileID: 6696841273211504992}
-  - component: {fileID: 5358821822926662552}
   m_Layer: 6
   m_Name: Target
   m_TagString: Target
@@ -141,33 +140,3 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &5358821822926662552
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4283429878576995869}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ffc4892e99d80034cbf90058dc57b3e0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Target
-  spawnPoint:
-    position: {fileID: 0}
-    targetPrefab: {fileID: 0}
-    quantity: 1
-    scale: {x: 1, y: 1, z: 1}
-    rotation: {x: 0, y: 0, z: 0}
-    moveHorizontal: 0
-    moveVertical: 0
-    moveSpeed: 3
-    moveRange: 5
-    health: 1
-    pointsValue: 10
-  moveHorizontal: 0
-  moveVertical: 0
-  moveSpeed: 3
-  moveRange: 5
-  health: 1
-  pointsValue: 10
